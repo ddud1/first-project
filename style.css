@@ -1,0 +1,7 @@
+.message {
+    display: block;
+    width: 300px;
+    height: 40px;
+    background-color: rgb(228, 119, 201);
+    color: aquamarine;
+}
